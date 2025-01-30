@@ -25,6 +25,13 @@
   object-fit: contain;
 
 }
+
+.back img:hover {
+  cursor: pointer;
+  background-color: blue;
+  transition: 0.2s;
+  border-radius: 75%;
+}
   
   .head{
     margin: 0%;
