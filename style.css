@@ -6,7 +6,7 @@
   }
   
   .hero{
-    height: 168vh;
+    height: 200vh;
     background: url(dddd.jpg);
     background-size: cover;
     background-position: center;
@@ -68,6 +68,6 @@
   
   .gallery img {
     width: 100%;
-    height: 40vh;
+    height: 48vh;
   }
   
