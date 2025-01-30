@@ -13,9 +13,21 @@
     background-repeat: no-repeat;
     image-resolution: 0;
   }
+
+.back {
+  position: absolute;
+  left: 20px;
+}
+
+.back img {
+  width: 70%;
+  height: 8vh;
+  object-fit: contain;
+
+}
   
   .head{
-    
+    margin: 0%;
     letter-spacing: 2px;
     transform: translate();
     text-align: center;
