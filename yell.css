@@ -126,8 +126,8 @@ body, html {
     box-shadow: 0px 4px 40px rgba(0, 123, 255, 0.7); 
 
 .image-item img {
-    width: 100%;
-    max-width: 800px; 
+    width: 95%;
+    max-width: 700px; 
     height: auto;
     border: 2px solid #007bff;
     border-radius: 8px; 
